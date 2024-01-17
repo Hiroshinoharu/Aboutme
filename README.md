@@ -11,9 +11,9 @@ I can be reached out via Linkedin (www.linkedin.com/in/max-ceban) or email at ma
 # Current Tech stack
 
 C and Python
-IDE: VSC and Pycharm
-Working with Command Line Interfaces
-Assembly
+IDE: VSC and Pycharm, 
+Working with Command Line Interfaces, 
+Assembly, 
 Working with ARM cortex M0 microprocesors
 
 # Also
