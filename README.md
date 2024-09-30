@@ -23,9 +23,10 @@
 
 ### Cisco Certified Network Associate (CCNA) Badges
 
-![CCNA Enterprise Networking, Security & Automation](./CCNAENSA__1_.png)
-![CCNA Introduction to Networks](./CCNAITN__1_.png)
-![CCNA Switching, Routing & Wireless Essentials](./CCNASRWE__1_.png)
+![CCNA Enterprise Networking, Security & Automation](![CCNAENSA__1_](https://github.com/user-attachments/assets/ea3c15dc-14a0-4642-b52f-f6aa250c9391))
+![CCNA Introduction to Networks](![CCNAITN__1_](https://github.com/user-attachments/assets/e4e83d24-1588-47a2-ba54-b771f25cb85e))
+![CCNA Switching, Routing & Wireless Essentials](![CCNASRWE__1_](https://github.com/user-attachments/assets/eb51d3da-032b-49e2-a62c-78a942daab24)
+)
 
 ---
 
